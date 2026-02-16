@@ -1,8 +1,8 @@
-#Amazon_aws-cloud-website
+#Amazon AWS cloud website
 
 #potty training for kids
 
-A potty training website that
+A potty training website.
 
 You can use the website to potty train your kids.
 User friendly; kids friendly
