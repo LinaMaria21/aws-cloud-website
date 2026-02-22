@@ -5,8 +5,6 @@ As a mom of 2 children I think this is a usefull tool.
 
 #potty training for kids
 
-A potty training website.
-
 You can use the website to potty train your kids.
 
 
