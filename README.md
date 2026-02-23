@@ -1,11 +1,11 @@
 This potty training website helps parents guide their children through the potty training journey.
 You can use the website to support and track your kids as they learn to use the toilet with confidence.
-As a mom of 2 children I think this is a usefull tool.
+As a mom of 3 kids I think this is a usefull tool.
+
 #Amazon AWS cloud website
 
 #potty training for kids
 
 You can use the website to potty train your kids.
-
 
 http://lina-cloud-website.s3-website.us-east-2.amazonaws.com/
