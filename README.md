@@ -1,6 +1,6 @@
-This potty training website is designed to help parents support their children during the potty training process.
+This potty training website is created to help parents assist their children throughout the toilet training journey.
 
-Parents can use the website to guide and track their child’s progress as they learn to use the toilet with confidence.
+Parents can use the site to support and monitor their child’s progress as they develop confidence in using the toilet independently.
 
 As a mom of 3, I believe this is a very helpful and practical tool.
 
