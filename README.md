@@ -2,7 +2,7 @@ This potty training website is created to help parents assist their children thr
 
 Parents can use the site to support and monitor their child’s progress as they develop confidence in using the toilet independently.
 
-As a mom, I believe this is a very helpful and practical tool.
+As a mom of three, I believe this is a very helpful and practical tool.
  
 #AmazonAWSCloudWebsite
 
