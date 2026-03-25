@@ -6,8 +6,6 @@ As a mom of 2 kids, I believe this is a very helpful and practical tool.
  
 #AmazonAWSCloud
 
-
-
 #PottyTrainingForKids
 
 #AWS
