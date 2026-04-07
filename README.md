@@ -1,4 +1,4 @@
-This is a potty training website to help other parents assist their children throughout the toilet training journey.
+Potty training website to help other parents assist their children throughout the toilet training journey.
 
 Parents can use the site to support and monitor their child’s progress as they develop confidence in using the toilet independently.
 
