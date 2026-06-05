@@ -2,7 +2,7 @@ AWS Website
 #HTML
 #AMAZONWEBSERVICES
 
-Potty training website
+Potty training tool
 
 Help other parents assist their children throughout the toilet training journey.
 
